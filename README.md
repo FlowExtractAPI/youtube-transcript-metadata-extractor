@@ -13,8 +13,6 @@
 
 Paste URL → Click Start → Download data. **That's it.**
 
-![Demo GIF - Shows URL being pasted, start button clicked, and JSON results appearing]
-
 ---
 
 ## Why 1,000+ marketers, researchers, and developers choose this tool
@@ -59,20 +57,6 @@ Paste URL → Click Start → Download data. **That's it.**
   }
 }
 ```
----
-
-## Real Results from Real Users
-
-> **"Turned 50 hours of transcription work into 10 minutes."**  
-> *Sarah Chen, Content Marketing Manager*
-
-> **"Essential for my AI training pipeline. Processed 10K videos in a weekend."**  
-> *Dr. Michael Rodriguez, ML Researcher*
-
-> **"Our agency saves $2,000/month in transcription costs."**  
-> *GrowthLab Digital*
-
----
 
 ## What You Can Do With This Data
 
@@ -257,22 +241,18 @@ Paste URL → Click Start → Download data. **That's it.**
 }
 ```
 
-[**→ Download full example dataset**](#)
-
----
-
 ## Pricing & Performance
 
 ### Transcript Extraction
 - **Free mode**: 5-10 seconds per video
 - **Paid mode**: 3-5 seconds per video (faster infrastructure)
-- **Cost**: ~$0.02-0.05 per video (depending on length)
+- **Cost**: ~$0.001-0.006 per video (depending on length)
 
 ### Comment Extraction (Optional Add-on)
 Uses [YouTube Comments Scraper](https://apify.com/dz_omar/youtube-comments-scraper?fpr=smcx63) in Standby Mode.
 
 **Pricing:**
-- Actor start: $0.01 (once per run)
+- Actor start: $0.001 (once per run)
 - Parent comments: $0.003 each
 - Replies: $0.0015 each
 
@@ -325,8 +305,6 @@ Save time with our built-in export templates:
 ### 3. 📺 Channel Analytics
 **Focus:** Channel info, subscribers, verification, video list  
 **Use for:** Influencer research, competitor analysis
-
-[**→ Preview all data views**](#)
 
 ---
 
@@ -600,7 +578,7 @@ try {
 | **Metadata** | ✅ Everything | ❌ Manual scraping | ⚠️ Basic only |
 | **Comments** | ✅ With replies | ❌ Screenshot only | ❌ Not available |
 | **API access** | ✅ Full REST API | ❌ None | ⚠️ Limited |
-| **Cost** | $0.001-0.003/video | $5-10/video (labor) | $0.10-0.50/video |
+| **Cost** | $0.001-0.006/video | $5-10/video (labor) | $0.10-0.50/video |
 | **Setup time** | 1 minutes | N/A | 30-60 minutes |
 
 ---
