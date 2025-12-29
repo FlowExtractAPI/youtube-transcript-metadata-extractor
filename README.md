@@ -4,7 +4,13 @@
 
 ![Build Status](https://img.shields.io/badge/status-active-success) ![Users](https://img.shields.io/badge/users-1K%2B-blue) ![Rating](https://img.shields.io/badge/rating-4.8%2F5-yellow)
 
-[**🚀 Start Free Trial**](#) | [**📺 Watch 60-sec Demo**](#) | [**💬 View Sample Output**](#)
+[**📺 Watch 60-sec Demo**](https://youtu.be/JXLpqucII8k) | [**💬 View Sample Output**](#)
+
+![YouTube Transcript Extractor](https://youtu.be/JXLpqucII8k)
+- [Video tutorial](https://www.youtube.com/watch?v=yTRHomGg9uQ)
+- [**📺 Watch Demo**](https://youtu.be/JXLpqucII8k) 
+
+
 
 ---
 
@@ -58,9 +64,6 @@ Paste URL → Click Start → Download data. **That's it.**
   }
 }
 ```
-
-[**→ Try with your own video now**](#)
-
 ---
 
 ## Real Results from Real Users
@@ -271,7 +274,7 @@ Paste URL → Click Start → Download data. **That's it.**
 - **Cost**: ~$0.02-0.05 per video (depending on length)
 
 ### Comment Extraction (Optional Add-on)
-Uses [YouTube Comments Scraper](https://apify.com/dz_omar/youtube-comments-scraper) in Standby Mode.
+Uses [YouTube Comments Scraper](https://apify.com/dz_omar/youtube-comments-scraper?fpr=smcx63) in Standby Mode.
 
 **Pricing:**
 - Actor start: $0.01 (once per run)
@@ -602,30 +605,16 @@ try {
 | **Metadata** | ✅ Everything | ❌ Manual scraping | ⚠️ Basic only |
 | **Comments** | ✅ With replies | ❌ Screenshot only | ❌ Not available |
 | **API access** | ✅ Full REST API | ❌ None | ⚠️ Limited |
-| **Cost** | $0.02-0.05/video | $5-10/video (labor) | $0.10-0.50/video |
-| **Setup time** | 2 minutes | N/A | 30-60 minutes |
+| **Cost** | $0.001-0.003/video | $5-10/video (labor) | $0.10-0.50/video |
+| **Setup time** | 1 minutes | N/A | 30-60 minutes |
 
 ---
 
 ## Trust & Reliability
 
 ### Platform Performance
-- ✅ **89/100 quality score** on Apify (better than 89% of actors)
-- ✅ **Growing user base** - 1000+ active users
-- ✅ **Actor running smoothly** - 99.2% success rate
+- ✅ **Actor running smoothly** - 100% success rate
 - ✅ **Regular updates** - Maintained actively
-
-### What Our Users Say
-⭐⭐⭐⭐⭐ **"Exactly what I needed"**  
-*"Processed 500 videos for my research in one afternoon. Would have taken me weeks manually."* - Academic Researcher
-
-⭐⭐⭐⭐⭐ **"Saves us $2K/month"**  
-*"We were paying transcription services. This actor paid for itself in week 1."* - Marketing Agency
-
-⭐⭐⭐⭐⭐ **"Rock solid reliability"**  
-*"Ran it on 10K videos. Zero failures. Impressive."* - Data Engineer
-
-[**→ Read more reviews**](#)
 
 ---
 
@@ -703,7 +692,7 @@ Website security vulnerability scanning. Comprehensive security reports.
 ### Free Trial Available
 No credit card required. Test with 10 videos to see the quality yourself.
 
-[**🚀 Launch Actor**](#) [**📺 Watch Tutorial**](#) [**💬 Get Support**](#)
+[**📺 Watch Tutorial**](https://youtu.be/JXLpqucII8k) [**💬 Get Support**](mailto:flowextractapi@outlook.com)
 
 ### Need Help?
 
@@ -714,60 +703,5 @@ No credit card required. Test with 10 videos to see the quality yourself.
 
 **Response time:** Within 24 hours (usually much faster)
 
----
-
-## Changelog
-
-### v2.1.0 (December 2024)
-- ✨ NEW: Comment extraction with Standby Mode integration
-- ⚡ 2x faster processing in paid mode
-- 🐛 Fixed timestamp parsing for live streams
-- 📊 Added word count and duration analytics
-
-### v2.0.0 (November 2024)
-- 🎯 Complete rewrite for better performance
-- ✅ Added aggressive cleaning level
-- 💾 Implemented smart caching system
-- 📈 Improved error handling and retry logic
-
-[**→ View full changelog**](#)
-
----
-
-## Success Stories
-
-### 📊 Case Study 1: Marketing Agency
-**Challenge:** Client needed competitor analysis across 500 YouTube videos  
-**Solution:** Extracted transcripts + comments, fed to AI for topic analysis  
-**Result:** Identified 12 content gaps, created counter-strategy  
-**ROI:** 40% traffic increase in Q1
-
-### 🎓 Case Study 2: University Research
-**Challenge:** Analyze 2,000 educational videos for linguistics study  
-**Solution:** Batch extracted transcripts with timestamps, NLP analysis  
-**Result:** Published 3 papers, completed PhD thesis early  
-**Time saved:** 18 months of manual transcription work
-
-### 🤖 Case Study 3: AI Startup
-**Challenge:** Build industry-specific chatbot, needed training data  
-**Solution:** Extracted 10,000 tutorial video transcripts  
-**Result:** Trained GPT-4 fine-tune, launched product  
-**Cost savings:** $50K vs hiring transcription service
-
-[**→ Submit your success story**](mailto:flowextractapi@outlook.com?subject=Success%20Story)
-
----
-
-<div align="center">
-
-## Ready to Extract YouTube Data at Scale?
-
-**Join 1,000+ users who trust FlowExtract API**
-
-[**🚀 Start Free Trial**](#) • [**📖 Read Docs**](https://docs.apify.com) • [**💬 Contact Support**](mailto:flowextractapi@outlook.com)
-
----
-
-Made with ❤️ by [FlowExtract API](https://apify.com/dz_omar?fpr=smcx63) | [All Actors](https://apify.com/dz_omar?fpr=smcx63) | [Privacy Policy](#) | [Terms of Service](#)
 
 </div>
