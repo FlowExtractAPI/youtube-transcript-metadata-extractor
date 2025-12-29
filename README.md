@@ -2,14 +2,9 @@
 
 **Extract YouTube transcripts, subtitles, and complete video metadata in seconds - no manual work, no copy-paste, just pure automated data extraction.**
 
-![Build Status](https://img.shields.io/badge/status-active-success) ![Users](https://img.shields.io/badge/users-1K%2B-blue) ![Rating](https://img.shields.io/badge/rating-4.8%2F5-yellow)
+[![🧾 YouTube Extractor (Transcripts + Metadata)](https://apify.com/actor-badge?actor=dz_omar/youtube-transcript-metadata-extractor)](https://apify.com/dz_omar/youtube-transcript-metadata-extractor)
 
-[**📺 Watch 60-sec Demo**](https://youtu.be/JXLpqucII8k) | [**💬 View Sample Output**](#)
-
-![YouTube Transcript Extractor](https://youtu.be/JXLpqucII8k)
-- [Video tutorial](https://www.youtube.com/watch?v=yTRHomGg9uQ)
-- [**📺 Watch Demo**](https://youtu.be/JXLpqucII8k) 
-
+[ 📺Watch Demo](https://www.youtube.com/watch?v=JXLpqucII8k)
 
 
 ---
@@ -690,9 +685,9 @@ Website security vulnerability scanning. Comprehensive security reports.
 ## Get Started Now
 
 ### Free Trial Available
-No credit card required. Test with 10 videos to see the quality yourself.
+No credit card required. Test with 5$ to see the quality yourself.
 
-[**📺 Watch Tutorial**](https://youtu.be/JXLpqucII8k) [**💬 Get Support**](mailto:flowextractapi@outlook.com)
+ [**💬 Get Support**](mailto:flowextractapi@outlook.com)
 
 ### Need Help?
 
